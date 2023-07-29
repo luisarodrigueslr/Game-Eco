@@ -1,1 +1,2 @@
 # Game-Eco
+This work was carried out for the Creative Programming course and aimed to build an animation with the theme of ecology, where the user could interact with it. After studying examples and sketching ideas, a simple game was proposed where the user explores a forest and looks for animals, after a fire that leaves everything burned, and with the aim of collecting and saving them, the forest changes its shape and background. as he finds the animals.
